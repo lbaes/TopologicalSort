@@ -1,0 +1,11 @@
+5
+Selecao_de_madeira
+Entalhamento_dos_arcos
+Entalhamento_do_assento
+Entalhamento_do_encosto
+Entalhamento_dos_bracos
+4
+1 2
+2 3
+3 4
+4 5
